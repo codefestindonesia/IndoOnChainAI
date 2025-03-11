@@ -11,7 +11,7 @@ Clone this repository:
 
 bash
 Copy
-git clone https://github.com/ranaufalmuha/IndoOnChainAI
+git clone https://github.com/codefestindonesia/IndoOnChainAI
 Install dependencies:
 
 bash
